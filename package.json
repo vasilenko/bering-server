@@ -1,0 +1,30 @@
+{
+  "name": "bering-server",
+  "version": "1.0.0",
+  "description": "Bering App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikolai Vasilenko",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-register": "^6.24.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasilenko/bering-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vasilenko/bering-server/issues"
+  },
+  "homepage": "https://github.com/vasilenko/bering-server#readme"
+}
